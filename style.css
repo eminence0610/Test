@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.option{
+    padding: 30px 100px;
+    background-image: linear-gradient(to right, #e9ecff,white);
+}
+.home{
+    padding: 30px 100px;
+
+}
+.start{
+    background-color: #0e0a47;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+}
+.about{
+    padding-left: 20px;
+}
+.head{
+    /* max-width: 100%; */
+    width: 650px;
+    height: 600px;
+}
+.you{
+ width: 240px;
+ background-color: #d0d8fc;
+ border: none;
+ border-radius: 5px;
+ text-align: center;
+}
+.solution{
+    font-size: 50px;
+    font-weight: 700;
+    color: #1b1642;
+}
+.demo{
+    background-color: white;
+    color: #0a074d;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 20px;
+}
+.free{
+    background-color: #0e0a47;
+    color: white;
+    padding: 10px;
+
+    border: none;
+    border-radius: 5px;
+
+}
+.all{
+    font-weight: lighter;
+}
+.rome{
+    padding: 70px 300px;
+    text-align: center;
+}
+.day{
+color: #1b1642;
+}
+.learn{
+    color:#1b1642 ;
+    font-weight: 700;
+}
+.easy{
+    border-bottom: 1px solid pink;
+}
+.easys{
+    border-bottom: 1px solid pink;
+    /* color: #112257; */
+}
+.app{
+    max-width: 100%;
+}
+.two{
+    background-color:wheat ;
+    color: #112257;
+    padding-left: 30px;
+    border-radius: 10px;
+    border: 1px solid white;
+    border-bottom: 1px solid pink;
+
+}
+.three{
+    background-color:wheat ;
+    color: #112257;
+    padding-left: 30px;
+    border-radius: 10px;
+    border: 1px solid white;
+    border-bottom: 1px solid pink;
+}
+.one{
+    background-color:wheat ;
+    color: #112257;
+    padding-left: 30px;
+    border-radius: 10px;
+    border: 1px solid white;
+    border-bottom: 1px solid pink;
+
+}
+.tertiary{
+    padding: 10px 30px;
+    text-align: center;
+    color: #0e0a47;
+    font-weight: 600;
+}
+.first{
+    padding-top: 100px;
+}
+.three,.two {
+    padding-left: 30px;
+}
+.demo:hover{
+
+}
+.service{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.one:hover{
+   
+    background-color:#112257 ;
+    color: white;
+    padding-left: 30px;
+    border-radius: 10px;
+
+}
+.two:hover{
+   
+        background-color:#112257 ;
+        color: white;
+        padding-left: 30px;
+        border-radius: 10px;
+}
+.serve{
+    font-weight: 800;
+    color: #0e0a47;
+}
+.have{
+    color: #0e0a47;
+
+}
+.easy:hover{
+    color: white;
+}
+.chose{
+    color: #95a1ff;
+}
+.three:hover{
+   
+    background-color:#112257 ;
+    color: white;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+.dad{
+    background-color: #e5ebfb;
+}
+.order{
+    padding: 20px 120px;
+}
+.client{
+    font-weight: 200px;
+    color: #0e0a47;
+}
+.mom{
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 25px #0e0a47;
+    margin-bottom: 30px;
+    text-align: center;
+}
